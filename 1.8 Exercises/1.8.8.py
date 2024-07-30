@@ -1,0 +1,5 @@
+num1 = eval(input('Enter a number: '))
+num2 = eval(input('Enter a number: '))
+num3 = eval(input('Enter a number: '))
+print("total - ",num1+num2+num3)
+print("average - ",(num1+num2+num3)/3) 
